@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187929320170",
+    "project_id": "basic-notes-app-ad71a",
+    "storage_bucket": "basic-notes-app-ad71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187929320170:android:36887e42113e6324f81593",
+        "android_client_info": {
+          "package_name": "com.example.basic_notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ca4h1Qn2froSwYipissuaz9yDU91X0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
